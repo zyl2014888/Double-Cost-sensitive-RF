@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 @Env:Python2.7
-@Time: 2019/10/24 13:31
-@Author: zhaoxingfeng
-@Function：Random Forest（RF），随机森林二分类
+@Time: 2019/11/10 
+@Author: ZYL        BaseLine:zhaoxingfeng
+@Function：Cost-Sensitive RF
 @Version: V1.1
 参考文献：
-[1] UCI. wine[DB/OL].https://archive.ics.uci.edu/ml/machine-learning-databases/wine.
-"""
+
 import pandas as pd
 import numpy as np
 import random
